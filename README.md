@@ -2,10 +2,6 @@
     <img src="./img/kevin-ameliano.png" />
 </div>
 
-<div align="center">
-  <!-- Ganti link src di bawah ini dengan link GIF anime/game favorit Anda -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNlaG4zenp5NnQ1a2FrZjF0cXlsNmg1dGcyaG5nM2J1OXRkZGhrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtpmUzMbynBeCgEa5E/giphy.gif" width="100%" height="400" style="object-fit: cover; border-radius: 30px;"/>
-</div>
 
 <br/>
 
@@ -60,17 +56,9 @@ a *Tech-Mage* who can combine software engineering logic, artificial intelligenc
 
 ---
 
-### 🏆 Player Stats
-
-<div align="center">
-  <!-- Menggunakan tema 'tokyonight' agar bernuansa gelap neon ala cyberpunk/game -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevindavid911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindavid911&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
   <p><i>"Leveling up one commit at a time."</i></p>
 </div>
 
