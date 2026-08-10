@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Ganti link src di bawah ini dengan link GIF anime/game favorit Anda -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNlaG4zenp5NnQ1a2FrZjF0cXlsNmg1dGcyaG5nM2J1OXRkZGhrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtpmUzMbynBeCgEa5E/giphy.gif" width="100%" height="400" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNlaG4zenp5NnQ1a2FrZjF0cXlsNmg1dGcyaG5nM2J1OXRkZGhrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtpmUzMbynBeCgEa5E/giphy.gif" width="100%" height="400" style="object-fit: cover; border-radius: 30px;"/>
 </div>
 
 <br/>
